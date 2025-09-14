@@ -4,4 +4,4 @@ A simple, single-file Tic-Tac-Toe built with Tkinter. The left side is a resizab
 
 ## Run
 ```bash
-python tictactoe.py
+python tic_tac_toe.py
